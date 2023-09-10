@@ -17,7 +17,6 @@ Firebase, played a crucial role in enhancing the app's functionality. Firebase R
 In this project, we will utilise web scraping techniques using Python, specifically leveraging the BeautifulSoup library. Our objective is to extract government schemes from the official website while prioritising security and authentication. To achieve this, we will employ technologies such as Requests for making HTTP requests and other essential libraries to facilitate the scraping process
 
 
-## Future Scope
 ## Future Scope of Improvement:
 
 ### 1. Enhanced Machine Learning Algorithms: 
