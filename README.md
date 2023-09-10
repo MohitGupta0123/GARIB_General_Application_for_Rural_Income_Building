@@ -1,0 +1,2 @@
+# GARIB_General_Application_for_Rural_Income_Building
+Intel OneAPI Project
